@@ -41,6 +41,7 @@ A powerful WordPress plugin that allows you to import content from any website i
 
 ### WordPress Duplicate Content Remover  
 A WordPress plugin that helps you identify and manage duplicate content across your website. It detects posts and pages with identical titles or similar URLs (e.g., /post, /post-1, /post-2) and provides tools to manage them efficiently while implementing proper SEO practices.  
+
 ---
 
 ## 🛠️ My Skills:
