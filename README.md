@@ -1,6 +1,6 @@
 # Hi there, I'm Selvakumar Duraipandian! 👋
 
-Welcome to my GitHub profile! I'm a passionate **Senior Solution Consultant** at Kissflow with a strong background in **Frontend Development** and **Web Performance Optimization**. 🚀 Problem-solving using web technologies isn't just my skill—it's my passion, driving me to create innovative solutions that make a real impact.
+I'm a passionate **Senior Solution Consultant** at Kissflow with a strong background in **Frontend Development** and **Web Performance Optimization**. 🚀 Problem-solving using web technologies isn't just my skill—it's my passion, driving me to create innovative solutions that make a real impact.
 
 ---
 
