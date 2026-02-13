@@ -52,6 +52,19 @@ A WordPress plugin that helps you identify and manage duplicate content across y
 - **Leadership**: Team Management, Process Innovation
 
 ---
+## 🚀 Community & Initiatives
+
+### 🏕️ techKoodaram — Building Together, Growing Together
+
+**Co-founder & Organizer of techKoodaram**, a community focused on empowering students and professionals through hands-on learning, collaboration, and real-world tech exposure.
+
+- 🧠 Organizing **Build Days, Workshops, and Tech Meetups** to foster practical skills  
+- 🤝 Connecting students, developers, and industry professionals  
+- 🎯 Creating opportunities for collaboration, mentorship, and innovation  
+- 🛠️ Promoting a builder mindset through project-based learning  
+- 🌱 Supporting aspiring developers to transition from learning → building → contributing  
+
+> techKoodaram aims to create a space where ideas turn into real projects and learners become creators.
 
 ## 📊 GitHub Highlights:
 ![Selvasudar's GitHub stats](https://github-readme-stats.vercel.app/api?username=selvasudar&show_icons=true&theme=radical)
